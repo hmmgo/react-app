@@ -12,6 +12,7 @@ To run the app locally:
 ```bash
 git clone https://github.com/hmm007/react-app.git
 cd react-app
+npm install
 npm run start
 open http://localhost:6000 or desirable port
 ```
