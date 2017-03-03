@@ -1,6 +1,6 @@
 # react-app
 
-This is React simple app that used [React], [bootstrap] with [webpack].
+This is React simple app that used [React], [Bootstrap] with [webpack].
 
 To run this simple app it is required:
 - git
